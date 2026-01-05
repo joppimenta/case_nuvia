@@ -10,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
 # configuracoes
-GOOGLE_API_KEY = "AIzaSyBD4YNz03jxrNKmCcmFCw4Mm5mrQ2bZU8E"
-SEARCH_ENGINE_ID = "e154946e6998c495c"
+GOOGLE_API_KEY = "API_KEY"
+SEARCH_ENGINE_ID = "ENGINE_KEY
 ARQUIVO_ENTRADA = "Planilha sem título (1).xlsx"
 ARQUIVO_SAIDA = "empresas_enriquecidas.xlsx"
 
